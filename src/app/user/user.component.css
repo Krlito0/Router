@@ -1,0 +1,16 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+button{
+    width: 60px;
+}
+
+p{
+    border: solid orange 5px;
+    width: 60px;
+}
